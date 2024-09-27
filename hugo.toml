@@ -1,0 +1,4 @@
+baseURL = 'https://pinkfloyd-mother.github.io/'
+languageCode = 'en-us'
+title = 'Pink Floyd - Mother'
+theme = 'ananke'
