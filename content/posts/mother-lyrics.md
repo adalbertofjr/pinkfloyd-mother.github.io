@@ -1,7 +1,7 @@
 +++
 title = 'Mother Lyrics'
 date = 2024-09-26T22:34:25-03:00
-draft = true
+draft = false
 +++
 
 # Mother
